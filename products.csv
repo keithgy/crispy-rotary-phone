@@ -1,0 +1,226 @@
+Product_ID,Product_Name,Category,Supplier_ID,Unit_Price,Sale_Price
+42-175-1648,Pomegranate,Fruits & Vegetables,67-272-8844,19,56
+21-809-7115,White Rice,Grains & Pulses,57-774-4116,20,43
+82-395-5070,Chocolate Biscuit,Bakery,01-801-9502,17,49
+45-194-4094,Plum,Fruits & Vegetables,65-611-4749,18,50
+28-433-8533,Multigrain Bread,Bakery,81-694-0300,17,49
+44-538-3366,Tuna,Seafood,33-898-6242,20,37
+51-069-0489,Bread Flour,Grains & Pulses,19-978-0708,12,34
+29-377-7040,Short Grain Rice,Grains & Pulses,59-979-6740,20,33
+83-553-9523,Buttermilk,Dairy,89-976-4338,13,37
+65-527-9488,Grapes,Fruits & Vegetables,23-482-0516,16,34
+10-255-8579,Basmati Rice,Grains & Pulses,29-112-1577,13,38
+46-083-7058,Haddock,Seafood,26-730-0925,18,25
+10-218-2680,Egg (Turkey),Dairy,72-024-1595,19,45
+87-104-0187,Whole Wheat Flour,Grains & Pulses,41-881-1166,14,41
+82-948-2298,Kiwi,Fruits & Vegetables,53-749-6148,8,23
+14-331-3739,Avocado Oil,Oils & Fats,87-159-6467,19,49
+64-478-4745,Lemon,Fruits & Vegetables,36-780-8625,11,28
+72-341-1154,Heavy Cream,Dairy,84-090-6472,13,31
+15-679-3935,Grapes,Fruits & Vegetables,35-906-1010,18,30
+17-504-3699,Sweet Potato,Fruits & Vegetables,81-276-8218,16,30
+89-673-1543,Digestive Biscuit,Bakery,43-679-7350,19,54
+56-894-3733,Yogurt,Dairy,57-133-8386,16,27
+42-134-9798,Canola Oil,Oils & Fats,16-869-7328,18,38
+50-329-3360,Wild Rice,Grains & Pulses,85-594-2570,20,42
+68-732-5919,Jasmine Rice,Grains & Pulses,07-500-2023,14,38
+51-761-6320,Egg (Goose),Dairy,28-461-1136,8,24
+22-083-3347,Long Grain Rice,Grains & Pulses,01-431-7544,19,42
+81-573-0943,Egg (Chicken),Dairy,07-754-2313,14,30
+28-146-2641,Parmesan Cheese,Dairy,82-995-0739,15,24
+70-587-1204,Black Rice,Grains & Pulses,41-399-9203,19,31
+43-703-9939,Pineapple,Fruits & Vegetables,69-928-4929,6,18
+22-778-3553,Cheddar Cheese,Dairy,49-590-1752,13,38
+28-840-6096,Pomegranate,Fruits & Vegetables,15-444-8224,10,24
+96-961-2193,Jasmine Rice,Grains & Pulses,71-467-4910,15,40
+28-505-8317,Watermelon,Fruits & Vegetables,61-755-4469,18,41
+27-757-4489,Egg (Goose),Dairy,04-456-0715,14,32
+38-417-4656,White Sugar,Grains & Pulses,57-202-5756,15,34
+74-234-0628,Almond Flour,Grains & Pulses,49-559-7092,18,40
+25-349-7974,Spinach,Fruits & Vegetables,82-737-6019,9,25
+12-998-3882,Egg (Turkey),Dairy,06-151-9076,14,26
+15-169-8058,Bread Flour,Grains & Pulses,14-009-8505,8,21
+14-844-4138,Black Coffee,Beverages,90-534-2165,15,37
+69-561-2496,Banana,Fruits & Vegetables,38-790-7081,17,48
+88-183-5781,Whole Wheat Bread,Bakery,49-247-1217,9,20
+96-209-1739,Evaporated Milk,Dairy,82-930-7733,16,18
+92-652-3737,Zucchini,Fruits & Vegetables,42-361-6981,12,30
+92-455-2959,Robusta Coffee,Beverages,13-109-8639,11,29
+97-300-7511,Egg (Duck),Dairy,47-687-2255,7,19
+82-041-7211,Swiss Cheese,Dairy,03-615-0558,17,45
+48-193-1199,Canola Oil,Oils & Fats,63-924-5144,8,22
+87-097-5691,Robusta Coffee,Beverages,26-213-7885,7,15
+31-746-4951,Whole Wheat Flour,Grains & Pulses,70-212-0990,20,27
+82-977-7752,Spinach,Fruits & Vegetables,57-473-8672,11,13
+11-155-7826,Arabica Coffee,Beverages,91-788-3177,11,20
+44-546-5713,Peach,Fruits & Vegetables,61-382-5182,16,45
+97-040-3822,Swiss Cheese,Dairy,78-459-1417,9,15
+74-642-2435,Cauliflower,Fruits & Vegetables,52-012-3409,13,39
+25-010-9478,Eggplant,Fruits & Vegetables,24-576-3402,14,29
+14-115-8371,Chocolate Biscuit,Bakery,80-833-3051,16,19
+46-911-1159,Onion,Fruits & Vegetables,30-820-2883,13,39
+10-626-8536,Coconut Sugar,Grains & Pulses,23-274-3305,17,23
+40-681-9981,Arabica Coffee,Beverages,54-470-2479,14,32
+56-635-6764,Sourdough Bread,Bakery,20-257-6927,13,27
+61-827-4098,Cod,Seafood,34-850-0377,18,43
+95-738-4658,Green Coffee,Beverages,67-404-3362,6,18
+47-554-5780,Haddock,Seafood,62-979-5038,4,11
+17-002-4721,Green Beans,Fruits & Vegetables,38-310-4533,6,18
+73-561-2867,Sourdough Bread,Bakery,60-386-5077,16,22
+16-187-5729,Black Tea,Beverages,79-366-7207,10,21
+76-540-6407,Orange,Fruits & Vegetables,78-644-5877,9,23
+27-495-1912,Potato,Fruits & Vegetables,34-667-8907,8,23
+08-196-2703,Peas,Fruits & Vegetables,34-315-1199,13,38
+44-552-3909,Pear,Fruits & Vegetables,80-863-1186,15,24
+93-682-2069,Lime,Fruits & Vegetables,60-038-7810,10,23
+74-404-0582,Cherry,Fruits & Vegetables,31-628-6696,15,19
+76-340-4432,Cucumber,Fruits & Vegetables,79-915-4185,14,19
+26-010-9519,Trout,Seafood,28-837-4164,4,10
+76-476-9996,Chocolate Biscuit,Bakery,88-428-6227,6,18
+51-459-5630,Sour Cream,Dairy,29-567-3732,7,19
+65-145-9672,Long Grain Rice,Grains & Pulses,65-068-1200,19,56
+82-678-8097,Cottage Cheese,Dairy,65-403-0311,17,34
+55-522-8242,Whipped Cream,Dairy,48-884-5431,15,21
+03-833-3577,Cucumber,Fruits & Vegetables,87-032-6971,18,43
+65-854-9364,Black Rice,Grains & Pulses,64-800-4141,8,19
+79-569-8856,Vegetable Oil,Oils & Fats,04-854-7165,10,24
+93-198-5984,Mango,Fruits & Vegetables,86-441-7850,17,36
+13-844-2178,Sardines,Seafood,66-832-1802,13,20
+17-022-9721,Apple,Fruits & Vegetables,59-629-0798,11,19
+03-940-0630,Sunflower Oil,Oils & Fats,49-762-8263,12,17
+50-329-3145,Milk,Dairy,88-418-3855,11,17
+09-101-1740,Sushi Rice,Grains & Pulses,63-836-1262,6,14
+47-663-5703,Basmati Rice,Grains & Pulses,52-062-2916,14,34
+89-388-3239,Grapes,Fruits & Vegetables,28-521-7083,7,11
+67-546-1568,Peanut Oil,Oils & Fats,10-038-3988,19,47
+41-237-5498,Cheese,Dairy,38-643-1626,10,18
+66-716-8221,Cheddar Cheese,Dairy,67-024-9832,20,26
+41-538-3129,Digestive Biscuit,Bakery,91-589-9007,3,9
+53-446-8243,Orange,Fruits & Vegetables,51-666-7174,18,31
+40-003-7322,White Sugar,Grains & Pulses,41-644-3129,17,27
+19-672-8982,Butter,Dairy,50-214-3802,8,11
+31-745-6850,Cabbage,Fruits & Vegetables,96-215-2767,4,12
+78-362-8578,Lemon,Fruits & Vegetables,57-633-6273,16,34
+04-758-0410,Wild Rice,Grains & Pulses,56-231-2524,19,40
+90-737-0044,Black Rice,Grains & Pulses,39-339-3869,6,11
+73-997-6251,Bell Pepper,Fruits & Vegetables,17-167-4304,11,29
+86-482-6451,White Tea,Beverages,56-965-0404,14,18
+74-943-9034,White Bread,Bakery,15-739-5480,3,6
+86-978-6666,Whole Wheat Flour,Grains & Pulses,43-979-2253,9,13
+48-789-9187,Peach,Fruits & Vegetables,95-944-5323,7,20
+05-899-1428,Avocado Oil,Oils & Fats,17-494-5505,3,8
+25-911-7736,Orange,Fruits & Vegetables,40-180-0752,7,11
+07-970-9352,Bell Pepper,Fruits & Vegetables,14-724-4622,12,24
+70-815-4015,Butter Biscuit,Bakery,89-134-9717,20,42
+12-714-5135,Ricotta Cheese,Dairy,97-055-2756,10,15
+15-144-9413,Strawberries,Fruits & Vegetables,08-912-0895,20,41
+68-636-4774,Carrot,Fruits & Vegetables,40-436-0171,8,12
+71-594-6552,Long Grain Rice,Grains & Pulses,63-492-7603,20,54
+68-734-1585,Greek Yogurt,Fruits & Vegetables,54-537-5633,9,13
+41-735-9837,Robusta Coffee,Beverages,35-462-7569,6,10
+46-753-8430,Feta Cheese,Dairy,35-042-9391,4,6
+24-972-6969,Cheese,Dairy,27-532-7847,5,7
+54-708-7327,Jasmine Rice,Grains & Pulses,46-316-6919,19,43
+21-013-3508,Cabbage,Fruits & Vegetables,64-489-8494,12,20
+11-073-0189,Plum,Fruits & Vegetables,75-190-3627,4,11
+53-805-9523,Sourdough Bread,Bakery,99-864-0256,7,21
+78-689-8958,White Tea,Beverages,52-744-6162,15,29
+65-464-5070,Heavy Cream,Dairy,01-517-7793,10,12
+05-184-4175,Black Coffee,Beverages,31-676-5646,17,41
+60-285-3783,Mushrooms,Fruits & Vegetables,58-827-9061,17,41
+67-027-7269,Mushrooms,Fruits & Vegetables,50-050-5707,8,21
+79-136-9840,Herbal Tea,Beverages,07-809-0926,5,15
+21-718-6746,Coconut,Fruits & Vegetables,96-012-3393,10,27
+34-291-4939,Digestive Biscuit,Bakery,39-284-1614,17,30
+56-054-8664,Lemon,Fruits & Vegetables,53-247-1844,7,18
+74-818-3306,Spinach,Fruits & Vegetables,75-536-2986,7,15
+98-235-2711,Asparagus,Fruits & Vegetables,23-052-4744,6,12
+60-747-8704,Papaya,Fruits & Vegetables,93-793-4398,15,22
+06-340-6856,Wild Rice,Grains & Pulses,11-005-7835,13,20
+24-310-9184,Rye Bread,Bakery,69-378-2045,7,9
+13-202-4809,Garlic,Fruits & Vegetables,24-281-7685,6,16
+11-745-3025,Peach,Fruits & Vegetables,54-711-1582,19,29
+71-436-5841,Cauliflower,Fruits & Vegetables,87-546-9674,13,38
+15-905-7750,Apricot,Fruits & Vegetables,48-176-1622,10,14
+60-198-7050,Green Tea,Beverages,27-493-6787,4,10
+17-647-0503,Cod,Seafood,69-416-9493,12,18
+19-214-5762,Pear,Fruits & Vegetables,88-108-3774,2,6
+31-608-1445,Papaya,Fruits & Vegetables,75-286-4153,8,23
+47-749-3277,Powdered Sugar,Grains & Pulses,96-551-3929,10,26
+35-836-6718,Ricotta Cheese,Dairy,27-838-4345,13,22
+08-114-3922,Anchovies,Seafood,19-418-7213,2,5
+91-257-3672,Tilapia,Seafood,30-438-6295,3,9
+08-961-3009,Cheese,Dairy,41-825-5869,20,24
+36-330-5036,Salmon,Seafood,52-359-1255,17,21
+21-120-6238,All-Purpose Flour,Grains & Pulses,86-292-4587,3,5
+52-392-5312,All-Purpose Flour,Grains & Pulses,78-092-4768,7,18
+79-494-2472,Green Beans,Fruits & Vegetables,04-391-8892,4,8
+58-182-6781,Oatmeal Biscuit,Bakery,75-328-1709,6,13
+22-621-2774,Strawberries,Fruits & Vegetables,70-901-6191,4,9
+80-658-6456,Mango,Fruits & Vegetables,42-080-6579,14,38
+16-380-0753,Apricot,Fruits & Vegetables,24-603-5521,5,8
+40-462-2952,Trout,Seafood,57-323-8059,4,10
+60-911-3745,Black Rice,Grains & Pulses,87-570-0273,10,29
+67-625-9704,Sardines,Seafood,13-475-1009,5,8
+13-673-7016,Peach,Fruits & Vegetables,78-726-6352,10,18
+67-270-7464,Jasmine Rice,Grains & Pulses,83-960-5274,7,12
+88-304-2855,Pineapple,Fruits & Vegetables,59-570-2020,3,4
+09-712-3630,Grapes,Fruits & Vegetables,17-807-6972,8,14
+66-854-5736,Kiwi,Fruits & Vegetables,98-591-1051,5,11
+72-989-2512,Mushrooms,Fruits & Vegetables,03-117-6217,2,6
+83-117-7658,Asparagus,Fruits & Vegetables,61-424-7670,19,35
+18-199-5799,Cheddar Cheese,Dairy,76-870-2139,18,26
+92-995-8689,Cheddar Cheese,Dairy,18-682-7828,3,6
+35-617-3857,Arabica Coffee,Beverages,90-718-2724,16,25
+48-461-3742,Kiwi,Fruits & Vegetables,78-381-5054,14,19
+25-522-6043,Gouda Cheese,Dairy,29-122-7037,5,15
+01-439-6231,Sunflower Oil,Oils & Fats,08-490-1714,9,18
+58-122-2282,Black Tea,Beverages,55-773-9118,11,21
+26-690-3784,Lettuce,Fruits & Vegetables,70-463-6597,11,27
+20-225-3930,White Tea,Beverages,73-069-2753,8,11
+99-048-8310,Tomato,Fruits & Vegetables,70-453-8646,15,19
+91-848-0606,Onion,Fruits & Vegetables,68-836-0350,5,12
+84-269-9130,Long Grain Rice,Grains & Pulses,88-615-2915,3,9
+18-278-2383,Gouda Cheese,Dairy,73-210-4267,2,5
+46-632-8420,Whipped Cream,Dairy,27-996-8883,10,23
+54-374-9986,Cream,Dairy,33-818-4917,3,6
+02-034-6209,Sour Cream,Dairy,34-724-1913,18,22
+45-250-4679,Bread Flour,Grains & Pulses,80-328-4990,16,21
+93-966-7754,Pineapple,Fruits & Vegetables,78-787-7171,14,31
+72-780-6006,Sunflower Oil,Oils & Fats,81-292-4650,8,20
+65-718-0492,Olive Oil,Oils & Fats,91-492-8216,15,26
+34-547-0827,White Rice,Grains & Pulses,30-853-8580,3,5
+61-293-6327,Salmon,Seafood,00-023-7719,6,7
+33-507-9886,Pineapple,Fruits & Vegetables,11-445-3951,4,5
+60-327-4114,Egg (Turkey),Dairy,59-968-8346,12,22
+29-741-8132,Kale,Fruits & Vegetables,49-384-4540,15,40
+54-758-4622,Chocolate Biscuit,Bakery,94-903-2643,5,13
+63-956-0739,Robusta Coffee,Beverages,17-123-1252,7,12
+77-013-1553,Canola Oil,Oils & Fats,42-252-5861,4,6
+49-891-4927,Cottage Cheese,Dairy,89-155-3471,4,11
+67-473-7093,Black Tea,Beverages,92-830-6986,17,33
+27-635-8394,Orange,Fruits & Vegetables,87-893-6089,5,11
+98-652-9569,Butter Biscuit,Bakery,65-160-1426,19,32
+42-879-9478,Anchovies,Seafood,00-900-0119,4,6
+39-810-2042,Rice Flour,Grains & Pulses,65-620-9866,5,15
+55-164-7723,Halibut,Seafood,85-454-9252,17,29
+48-957-8596,Banana,Fruits & Vegetables,40-817-2222,4,9
+26-177-5690,Cucumber,Fruits & Vegetables,06-708-1412,9,26
+54-109-8062,Sushi Rice,Grains & Pulses,04-726-3363,4,5
+08-519-5579,Broccoli,Fruits & Vegetables,32-178-2765,19,25
+24-986-5091,Vanilla Biscuit,Bakery,51-076-1164,11,24
+24-571-1080,Kale,Fruits & Vegetables,07-520-1107,10,24
+86-672-4191,Egg (Goose),Dairy,79-219-8469,15,24
+38-049-9319,Oatmeal Biscuit,Bakery,90-447-5123,8,18
+92-291-7089,Cheese,Dairy,08-523-5066,7,15
+48-242-8445,Plum,Fruits & Vegetables,84-941-3034,11,15
+82-811-7988,Olive Oil,Oils & Fats,41-772-9238,6,14
+80-025-6757,Grapes,Fruits & Vegetables,49-608-3851,5,14
+13-962-6263,Sweet Potato,Fruits & Vegetables,26-061-5253,8,14
+20-054-3716,Chocolate Biscuit,Bakery,49-591-1019,4,10
+87-013-6488,Sushi Rice,Grains & Pulses,77-471-0792,6,10
+88-977-0175,Chocolate Biscuit,Bakery,58-087-3463,5,8
+28-275-5901,Anchovies,Seafood,44-760-4337,9,24
+22-849-2551,Mushrooms,Fruits & Vegetables,14-231-9135,3,7
+36-296-9609,Sunflower Oil,Oils & Fats,46-041-1131,5,9
+02-888-9412,Cauliflower,Fruits & Vegetables,22-307-4653,8,17
