@@ -3,14 +3,14 @@
 This project seeks to explore and enhance personal data analysis developments mainly focused on SQL, Excel, and Power BI on a retail grocery dataset.
 
 ## Tools Used
-- Excel Power Query for data cleaning, pivot analysis & forecasting
-- SQL for transformative data analytics
+- Excel Power Query for data cleaning, data transformation & pivot analysis 
+- SQL for transformative data analytics 
 - Power BI for interactive dashboards
 
 ## Key Insights
-- Built restocking alerts based on inventory thresholds
 - Visualized category-wise monthly sales trends
 - Reactive ABC Inventory Prioritisation
+- View best & worst performing products based on KPI for better-informed deicision making 
 
 ## Files Included
 - `sql_queries/`: SQL scripts used for transformation and insights
