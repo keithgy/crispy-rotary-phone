@@ -3,9 +3,16 @@
 This project seeks to explore and enhance personal data analysis developments mainly focused on SQL, Excel, and Power BI on a retail grocery dataset.
 
 ## Tools Used
-- Excel Power Query for data cleaning, data transformation & pivot analysis 
-- SQL for transformative data analytics 
-- Power BI for interactive dashboards
+**Excel Power Query for data cleaning, data transformation & pivot analysis**
+  - Built calculated fields to generate recommended reorder levels based on inventory performance
+  - Performed percentage sales calculations to support ABC classification logic
+  - Applied Power Query to clean and reshape the raw CSV data for consistency and analysis readiness
+**MySQL for transformative data analytics**
+  - Normalized raw data into four modular tables for efficient querying
+  - Enabled advanced inventory and sales analytics and performed ABC Classification through SQL queries
+**Power BI for interactive dashboards**
+  - Improved trend visibility and comparative analysis across multiple performance segments
+  - Interactive dashboard displaying key metrics
 
 ## Key Insights
 - Visualized category-wise monthly sales trends
