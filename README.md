@@ -10,15 +10,24 @@ This project seeks to explore and enhance personal data analysis developments ma
 ## Key Insights
 - Visualized category-wise monthly sales trends
 - Reactive ABC Inventory Prioritisation
-- View best & worst performing products based on KPI for better-informed deicision making 
+- View best & worst performing products based on KPI for better-informed deicision making
+- Recommend products for discontinuation based on ABC clasification and KPI metrics
 
 ## Files Included
 - `sql_queries/`: SQL scripts used for transformation and insights
-- `excel_analysis/`: Workbook with pivot tables and reorder calculator
-- `powerbi_dashboard/`: Interactive .pbix file with visuals
+- `excel_data/`: Workbook with pivot tables and reorder calculator
+- `powerbi/`: Interactive .pbix file with visuals
 - `images/`: Screenshots of the dashboard
 
 ## Preview
+<img width="1315" height="742" alt="image" src="https://github.com/user-attachments/assets/0c4bcefe-7ff1-4f51-a6ec-dd6ccebe8fbe" />
+
+<img width="612" height="341" alt="image" src="https://github.com/user-attachments/assets/06f8cb9e-c518-41aa-9fee-03f129d16265" />
+
+<img width="761" height="852" alt="image" src="https://github.com/user-attachments/assets/a4c7ab31-accd-4090-90fe-e9789f00ed0b" />
+
+<img width="986" height="315" alt="image" src="https://github.com/user-attachments/assets/66583b45-7a98-48b4-ba49-f21074de15b3" />
+
 
 ## How to Use
 1. Clone the repo
